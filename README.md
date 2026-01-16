@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘼𝙗𝙙𝙚𝙡𝙙𝙟𝙖𝙡𝙞𝙡 𝙠𝙝𝙞𝙩𝙚𝙧
 
 [![](https://img.shields.io/badge/-@devsnack-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://linkedin.com/me/kitdev)
 [![](https://img.shields.io/badge/-@devsnack-%23181717?style=flat-square&logo=github)](https://github.com/devsnack)
