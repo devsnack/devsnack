@@ -53,4 +53,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+![devsnack's github stats](https://github-readme-stats.vercel.app/api?username=devsnack&show_icons=true&theme=dracula)
